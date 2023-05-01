@@ -1,0 +1,278 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "decade":1960,
+    "ISO-country":"SLV",
+    "count":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "decade":1960,
+    "ISO-country":"GTM",
+    "count":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "decade":1960,
+    "ISO-country":"HND",
+    "count":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "decade":1970,
+    "ISO-country":"SLV",
+    "count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "decade":1970,
+    "ISO-country":"GTM",
+    "count":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "decade":1970,
+    "ISO-country":"HND",
+    "count":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "decade":1980,
+    "ISO-country":"SLV",
+    "count":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "decade":1980,
+    "ISO-country":"GTM",
+    "count":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "decade":1980,
+    "ISO-country":"HND",
+    "count":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "decade":1990,
+    "ISO-country":"SLV",
+    "count":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "decade":1990,
+    "ISO-country":"GTM",
+    "count":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "decade":1990,
+    "ISO-country":"HND",
+    "count":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "decade":2000,
+    "ISO-country":"SLV",
+    "count":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "decade":2000,
+    "ISO-country":"GTM",
+    "count":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "decade":2000,
+    "ISO-country":"HND",
+    "count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "decade":2010,
+    "ISO-country":"SLV",
+    "count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "decade":2010,
+    "ISO-country":"GTM",
+    "count":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "decade":2010,
+    "ISO-country":"HND",
+    "count":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "decade":2020,
+    "ISO-country":"SLV",
+    "count":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "decade":2020,
+    "ISO-country":"GTM",
+    "count":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "decade":2020,
+    "ISO-country":"HND",
+    "count":9
+    }
+  }
+]
+}
